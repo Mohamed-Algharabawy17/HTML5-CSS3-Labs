@@ -1,0 +1,51 @@
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
+
+video
+{
+    width: 500px;
+    height: auto;
+}
+
+#btns-div
+{
+    width: 620px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+img
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+}
+
+img:hover
+{
+    background-color: rgb(112, 218, 112);
+}
+
+.controls
+{
+    border: none;
+    background-color: white;
+}
+
+label
+{
+    color: red;
+}
+
+#playValue
+{
+    display: none;
+}
