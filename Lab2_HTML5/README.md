@@ -17,4 +17,4 @@ Lab2_HTML5 is a collection of exercises and examples focused on practicing and u
 To use the files in this repository, simply clone or download the repository to your local machine and open the `index.html` file in a web browser.
 
 ```bash
-git clone <https://github.com/Mohamed-Algharabawy17/HTML5-CSS3-Labs/Lab2_HTML5.git>
+git clone <https://github.com/Mohamed-Algharabawy17/HTML5-CSS3-Labs.git>
