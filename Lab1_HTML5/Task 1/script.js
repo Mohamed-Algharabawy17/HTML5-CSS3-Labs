@@ -14,7 +14,6 @@ let muteBtn = document.getElementById('mute');
 let speedSlider = document.getElementById('speedSlider');
 let speedValue = document.getElementById('speedValue');
 
-    console.log(video.currentTime);
 //------------------------------------------ handling play button ----------------------------------------
 playPauseBtn.addEventListener('click', function() 
 {
