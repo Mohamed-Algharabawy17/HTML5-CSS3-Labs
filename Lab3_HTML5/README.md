@@ -1,4 +1,4 @@
-# Lab3_HTML5
+# Lab3_HTML5 && CSS3
 
 This folder contains three tasks focusing on HTML5 and CSS. Each task involves creating a different web component and applying various HTML and CSS techniques.
 
