@@ -1,0 +1,68 @@
+div {
+    width: 500px;
+    height: 180px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+div h1 {
+    margin-top: 0;
+    margin-left: 0;
+}
+
+[type="email"] {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
+
+[type="text"] {
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
+
+[type="submit"]:hover {
+    margin-top: 5px;
+    border: none;
+    background-color: rgb(72, 209, 72);
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+}
+
+[type="submit"] {
+    margin-top: 5px;
+    border: 2px solid rgb(72, 209, 72);
+    background-color: white;
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    color: black;
+}
+
+
+input:invalid {
+    border: 1.5px solid red;
+}
+
+span {
+    display: none;
+}
+
+[type="email"]:invalid ~ span {
+    display: block;
+    color: red; 
+}
+
+[type="text"]:invalid ~ span {
+    display: block;
+    color: red; 
+}
+
+input:valid{
+    border: 1.5px solid green;
+}
+
+
+
